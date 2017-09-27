@@ -1,6 +1,6 @@
 # bry_exercices
 Compilar o arquivo ex1.c com o comando make no terminal.
-Para executar, utilize ./exercicio_um no terminal.
+Para executar, utilize ./ex1 no terminal.
 
   Para o Fedora:
 As dependências se resumem ao OpenSSL, disponível com:
