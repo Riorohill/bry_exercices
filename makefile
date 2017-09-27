@@ -1,6 +1,6 @@
 CC = gcc
 CFLAGS  = -lssl -lcrypto
-TARGET = ex1
+TARGET = exercicio1
 all: $(TARGET)
 $(TARGET): $(TARGET).c
 	$(CC) $(CFLAGS) -o $(TARGET) $(TARGET).c
