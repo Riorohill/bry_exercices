@@ -3,3 +3,6 @@ ex1: ex1.c
 .PHONY: install
 install: ex1.c
 	cp ex1.c /media/ex1.c
+
+all: ex1.c
+	cp ex1.c /media/ex1.c
